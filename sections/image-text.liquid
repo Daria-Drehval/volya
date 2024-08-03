@@ -1,0 +1,49 @@
+<div class="wrapper image-text {% unless section.settings.image_left %} section-revert {% endunless %}">
+  <div class="image-text__image">
+    <img class="rotate" src="{{ section.settings.image | img_url: "480x480" }}" alt="IAMVOLUYA" />
+  </div>
+  <div class="image-text__text text__standard standard__rte font--3 columns--1 aos-init aos-animate">
+    {{ section.settings.text }}
+    <a class="standard__cta caps--link btn--secondary aos-init aos-animate" href="{{ section.settings.url }}"> {{ section.settings.button_text }} </a>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Image Text",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "image_left",
+      "label": "Image left",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Text"
+    },
+    {
+      "type": "url",
+      "id": "url",
+      "label": "Button url"
+    },
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Button text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image Text"
+    }
+  ]
+}
+{% endschema %}

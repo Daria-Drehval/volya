@@ -1,0 +1,747 @@
+{
+  "current": {
+    "color_announcement_bg": "#ffffff",
+    "color_announcement_text": "#000000",
+    "color_header_bg": "#ffffff",
+    "color_header_text": "#0026ff",
+    "color_nav_border": "#000000",
+    "color_highlight_link": "#fff",
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#222324",
+    "color_primary": "#0004f4",
+    "color_secondary": "#0004f4",
+    "color_bg_light": "#ffffff",
+    "color_bg_inverse": "#ffffff",
+    "color_text_inverse": "#000000",
+    "color_primary_inverse": "#222324",
+    "color_secondary_inverse": "#222324",
+    "color_bg_accent_inverse": "#ffffff",
+    "default_background": "",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#0026ff",
+    "type_heading_font": "itc_johnston_n5",
+    "type_heading_size": 115,
+    "font_title_capitalize": false,
+    "type_accent_font": "itc_johnston_n5",
+    "type_accent_size": 110,
+    "type_base_font": "harmonia_sans_n4",
+    "type_body_size": 110,
+    "button_radius": 0,
+    "animations_scroll_enable": true,
+    "parallax_enable": false,
+    "search_pages": true,
+    "collection_text_alignment": "text-center",
+    "product_grid_style": "under",
+    "image_hover_enable": true,
+    "product_grid_image": "crop",
+    "product_grid_aspect_ratio": 1,
+    "swatches_enable": true,
+    "badge_sale": false,
+    "badge_sale_discount": false,
+    "badge_sale_type": "dollar",
+    "color_badge": "#ffffff",
+    "color_badge_text": "#000000",
+    "cart_style": "pop",
+    "cart_notes_enable": false,
+    "cart_continue_browsing": "shopify:\/\/collections",
+    "show_free_shipping_message": true,
+    "message": "Free shipping on all orders over £200",
+    "free_shipping_limit": "200",
+    "cart_custom_message_enable": false,
+    "cart_custom_message_text": "<p>PLEASE NOTE: online orders will be shipped on the 14th of September. Join us at our pop up at 7 Club Row, E1 6JX, London  9-13 SEPT<\/p>",
+    "cart_color_bg": "palette--dark bg--invert--accent",
+    "cart_show_additional_buttons": true,
+    "social_facebook_link": "https:\/\/facebook.com\/iamvolya",
+    "social_instagram_link": "https:\/\/www.instagram.com\/iamvolya.uk",
+    "favicon": "shopify:\/\/shop_images\/2022-09-08___22.41.18-removebg-preview.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Shopify_logo.png",
+    "checkout_logo_position": "right",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#0026ff",
+    "checkout_button_color": "#0026ff",
+    "checkout_error_color": "#bf0000",
+    "product_background_color": "#fcfcfc",
+    "animations_enable": true,
+    "image_autoheight_enable": true,
+    "tag_sellout": false,
+    "tag_sale": false,
+    "sections": {
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announce_text": {
+            "type": "text",
+            "settings": {
+              "text": "<p>FREE DELIVERY ON ORDERS OVER £200<\/p><p><\/p>",
+              "target_url_enabled": false,
+              "target_url": "shopify:\/\/collections\/all",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "desktop"
+            }
+          },
+          "08d9b4b0-7546-4784-a0a9-4b16e8786511": {
+            "type": "message",
+            "disabled": true,
+            "settings": {
+              "message": "<p>Free shipping on orders over £200.  Duties and taxes included<\/p>",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "announce_text",
+          "08d9b4b0-7546-4784-a0a9-4b16e8786511"
+        ],
+        "settings": {
+          "text_size": 3,
+          "layout": "marquee",
+          "speed": 0
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "collection_block": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "position": "1",
+              "collection": "tops",
+              "limit": 4
+            }
+          }
+        },
+        "block_order": [
+          "collection_block"
+        ],
+        "settings": {
+          "header_style": "split",
+          "logo": "shopify:\/\/shop_images\/Shopify_logo.png",
+          "logo_max_limit": 320,
+          "header_height_padding": 33,
+          "main_menu_linklist": "main-menu-update",
+          "full_width": true,
+          "underline_current": true,
+          "enable_search": true,
+          "enable_account": true,
+          "use_icons": true,
+          "header_sticky": "sticky",
+          "transparent_home": false,
+          "transparent_collection": false,
+          "transparent_blog": false,
+          "transparent_article": false,
+          "transparent_page": false,
+          "transparent_text_color": "#ffffff",
+          "transparent_logo": "shopify:\/\/shop_images\/Shopify_logo.png",
+          "bg_color": "#fffb00",
+          "text_size": 2,
+          "annoncement_text": "<p style=\"word-spacing:30px;\"> STRONG  FIERCE  BRAVE    EMPOWERED FEMININE INTELLIGENT SEXY INDEPENDENT SELF-EXPRESSIVE PROVOCATIVE EDGY <\/p>"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "richtext": "<p><\/p>",
+              "accordion_default": ""
+            }
+          },
+          "linklist": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "footer-services",
+              "accordion_default": ""
+            }
+          },
+          "fa1c16be-36b4-43ea-bd72-cb1d0e34b99a": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "footer-press",
+              "accordion_default": ""
+            }
+          },
+          "bc5330b4-d7ac-459d-8d72-2a72ff784d6b": {
+            "type": "social-media",
+            "settings": {}
+          },
+          "dcfc6b43-da85-4a93-a26d-a71e94f3530b": {
+            "type": "text",
+            "settings": {
+              "title": "Contact us",
+              "text": "<p><\/p>",
+              "phone_number": "+447907774737",
+              "email": "info@iamvolya.com"
+            }
+          }
+        },
+        "block_order": [
+          "newsletter",
+          "linklist",
+          "fa1c16be-36b4-43ea-bd72-cb1d0e34b99a",
+          "bc5330b4-d7ac-459d-8d72-2a72ff784d6b",
+          "dcfc6b43-da85-4a93-a26d-a71e94f3530b"
+        ],
+        "settings": {
+          "footer_secondary_linklist": "footer-press",
+          "footer_payment_enable": false,
+          "footer_social_enable": false,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "currency_select_type": "country"
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "blocks": {
+          "cookies": {
+            "type": "cookie",
+            "settings": {
+              "show_cookies_popup": true,
+              "text_title": "Are Cookies OK?",
+              "text_body": "<p>We use cookies to improve your browsing experience<\/p>",
+              "text_accept": "Accept",
+              "text_learn": "Learn more",
+              "learn_url": "shopify:\/\/policies\/privacy-policy",
+              "text_color": "text--primary",
+              "button_color": "btn--secondary",
+              "button_style": "btn--soft uppercase",
+              "bg": "palette--dark bg--invert--accent",
+              "position": "popup--bottom"
+            }
+          },
+          "newsletter_signup": {
+            "type": "newsletter",
+            "disabled": true,
+            "settings": {
+              "title": "BE PART OF I AM VOLYA",
+              "text": "<p>Subscribe to our newsletter to receive updates, secret deals and invitations to our events.<\/p>",
+              "success": "Check your inbox to confirm your email.",
+              "text_color": "text--black",
+              "bg": "palette--light bg--accent",
+              "position": "popup--center",
+              "trigger": "always",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          },
+          "5e530cbf-7678-4cef-a8eb-3379b100be11": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "CYBER MONDAY",
+              "text": "<p>Get 20% discount on all orders with promocode CYBERVOLYA<\/p>",
+              "text_color": "text--black",
+              "bg": "palette--dark bg--invert",
+              "link_text": "SHOP",
+              "link": "shopify:\/\/collections\/all",
+              "button_color": "btn--black",
+              "button_style": "btn uppercase",
+              "position": "popup--center",
+              "trigger": "delayed",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          },
+          "f75a1bc1-dd85-4a03-9724-73bcd1f54ebe": {
+            "type": "image_with_text",
+            "disabled": true,
+            "settings": {
+              "title": "Join us at “Carol of the Bells” pop-up",
+              "image": "shopify:\/\/shop_images\/iamvolya_EMAIL.jpg",
+              "text": "<p>9-18th of December at 7 Dray Walk, Truman Brewery, E1 6QL, London<\/p>",
+              "text_color": "text--neutral",
+              "bg": "palette--light bg--neutral",
+              "link_text": "DISCOVER",
+              "link": "shopify:\/\/pages\/pop-up",
+              "trigger": "delayed",
+              "target_url_enabled": false,
+              "target_url": "",
+              "target_referrer_enabled": false,
+              "target_referrer": "",
+              "target_device_enabled": false,
+              "target_device": "mobile"
+            }
+          }
+        },
+        "block_order": [
+          "cookies",
+          "newsletter_signup",
+          "5e530cbf-7678-4cef-a8eb-3379b100be11",
+          "f75a1bc1-dd85-4a03-9724-73bcd1f54ebe"
+        ],
+        "settings": {}
+      },
+      "Magic-GA-Events": {
+        "type": "Magic-GA-Events",
+        "settings": {}
+      },
+      "gift-card": {
+        "type": "gift-card",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/custom_resized_6a1f8817-0a02-49f6-94a6-22dc4973748e.png",
+          "logo_max_limit": 395
+        }
+      },
+      "section-announcement": {
+        "type": "section-announcement",
+        "blocks": {
+          "aed494fc-6130-4d09-8635-823edb9dd036": {
+            "type": "custom",
+            "disabled": true,
+            "settings": {
+              "text": "<p style=\"word-spacing:30px;\"> STRONG  FIERCE  BRAVE    EMPOWERED FEMININE INTELLIGENT SEXY INDEPENDENT SELF-EXPRESSIVE PROVOCATIVE EDGY <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "aed494fc-6130-4d09-8635-823edb9dd036"
+        ],
+        "custom_css": [
+          ".announcement__wrapper {margin: 15px 0; z-index: 0;}"
+        ],
+        "settings": {
+          "bg_color": "#fffb00",
+          "color": "#0026ff",
+          "text_size": 3
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "10603822535667782919": {
+        "type": "shopify:\/\/apps\/wishlist\/blocks\/app-embed\/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
+        "disabled": false,
+        "settings": {
+          "hide_float_icon": true,
+          "is_show_vendor": false,
+          "heart_icon_color": "",
+          "iwish_count_clr": "#ffffff",
+          "iwish_float_custom_icon": "",
+          "float_heart_position": "top",
+          "float_heart_alignment": "right",
+          "open_drawer_once": false,
+          "multi_category_wishlist": false,
+          "is_old_cur_convertor": false,
+          "drawer_is_add_all_to_cart": false,
+          "cart_icon_class": "span[data-header-cart-count]",
+          "iwish_img_col": "2",
+          "iwish_img_size": "300X300",
+          "is_multi_language": true,
+          "drawer_title": "My Wishlist",
+          "drawer_empty_description": "Explore more and shortlist some items",
+          "drawer_empty_msg": "Your wishlist is empty!",
+          "drawer_login_msg": "Wishlist is not saved permanently yet. Please <a class=\"link-text\" href=\"\/account\/login\">log in<\/a> or <a class=\"link-text\" href=\"\/account\/register\">Create Account<\/a> to save it.",
+          "add_to_cart_txt": "Add To Cart",
+          "add_all_to_cart_txt": "Add All To Cart",
+          "main_wishlist_text": "Main Wishlist",
+          "save_btn_text": "SAVE"
+        }
+      }
+    }
+  },
+  "presets": {
+    "Bright": {
+      "color_announcement_bg": "#766456",
+      "color_announcement_text": "#fffcf9",
+      "color_header_bg": "#ffffff",
+      "color_header_text": "#766456",
+      "color_nav_border": "#f8f0e7",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#766456",
+      "color_primary": "#d2815f",
+      "color_secondary": "#687158",
+      "color_bg_light": "#fcfaf7",
+      "color_bg_inverse": "#333333",
+      "color_primary_inverse": "#ffe5da",
+      "color_secondary_inverse": "#dff3fd",
+      "color_bg_accent_inverse": "#191008",
+      "product_background_color": "#fcfcfc",
+      "color_footer_bg": "#f9f6f2",
+      "color_footer_text": "#766456",
+      "type_heading_font": "itc_clearface_n4",
+      "type_heading_size": 115,
+      "font_title_capitalize": false,
+      "type_accent_font": "avenir_next_n5",
+      "type_accent_size": 95,
+      "type_base_font": "avenir_next_n4",
+      "type_body_size": 100,
+      "animations_scroll_enable": true,
+      "collection_text_alignment": "text-center",
+      "product_grid_style": "under",
+      "image_hover_enable": true,
+      "product_grid_image": "crop",
+      "cart_style": "drawer",
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "blocks": {
+            "announce_text": {
+              "type": "text",
+              "disabled": true,
+              "settings": {}
+            },
+            "announce_shipping": {
+              "type": "message",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "announce_text",
+            "announce_shipping"
+          ],
+          "settings": {}
+        },
+        "header": {
+          "type": "header",
+          "blocks": {
+            "collection_block": {
+              "type": "collection",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "collection_block"
+          ],
+          "settings": {
+            "main_menu_linklist": "main-menu",
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "linklist": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "linklist",
+            "text",
+            "newsletter"
+          ],
+          "settings": {}
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "cookies": {
+              "type": "cookie",
+              "disabled": true,
+              "settings": {
+                "show_cookies_popup": true,
+                "text_title": "Are Cookies OK?",
+                "text_body": "<p>We use cookies to improve your browsing experience<\/p>",
+                "text_accept": "Accept",
+                "text_learn": "Learn more",
+                "learn_url": "shopify:\/\/policies\/privacy-policy"
+              }
+            },
+            "newsletter_signup": {
+              "type": "newsletter",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "cookies",
+            "newsletter_signup"
+          ],
+          "settings": {}
+        }
+      }
+    },
+    "Light": {
+      "color_announcement_bg": "#f7f7f7",
+      "color_announcement_text": "#656565",
+      "color_header_bg": "#ffffff",
+      "color_header_text": "#656565",
+      "color_nav_border": "#d7d7d7",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#656565",
+      "color_primary": "#f4a482",
+      "color_secondary": "#585e71",
+      "color_bg_light": "#f7f7f7",
+      "color_bg_inverse": "#2e3438",
+      "color_text_inverse": "#ffffff",
+      "color_primary_inverse": "#fcd8c8",
+      "color_secondary_inverse": "#c6dae5",
+      "color_bg_accent_inverse": "#222324",
+      "product_background_color": "#ffffff",
+      "color_footer_bg": "#efefef",
+      "color_footer_text": "#393939",
+      "type_heading_font": "futura_n7",
+      "type_heading_size": 115,
+      "font_title_capitalize": true,
+      "type_accent_font": "itc_johnston_n5",
+      "type_accent_size": 95,
+      "type_base_font": "harmonia_sans_n4",
+      "type_body_size": 100,
+      "button_radius": 0,
+      "collection_text_alignment": "text-center",
+      "product_grid_style": "hover",
+      "image_hover_enable": true,
+      "animations_scroll_enable": true,
+      "product_grid_image": "crop",
+      "cart_style": "pop",
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "blocks": {
+            "announce_text": {
+              "type": "text",
+              "disabled": true,
+              "settings": {}
+            },
+            "announce_shipping": {
+              "type": "message",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "announce_text",
+            "announce_shipping"
+          ],
+          "settings": {}
+        },
+        "header": {
+          "type": "header",
+          "blocks": {
+            "collection_block": {
+              "type": "collection",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "collection_block"
+          ],
+          "settings": {
+            "main_menu_linklist": "main-menu",
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "linklist": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "linklist",
+            "text",
+            "newsletter"
+          ],
+          "settings": {}
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "cookies": {
+              "type": "cookie",
+              "disabled": true,
+              "settings": {
+                "show_cookies_popup": true,
+                "text_title": "Are Cookies OK?",
+                "text_body": "<p>We use cookies to improve your browsing experience<\/p>",
+                "text_accept": "Accept",
+                "text_learn": "Learn more",
+                "learn_url": "shopify:\/\/policies\/privacy-policy"
+              }
+            },
+            "newsletter_signup": {
+              "type": "newsletter",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "cookies",
+            "newsletter_signup"
+          ],
+          "settings": {}
+        }
+      }
+    },
+    "Dark": {
+      "color_announcement_bg": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_header_bg": "#000000",
+      "color_header_text": "#f1f1f1",
+      "color_nav_border": "#282828",
+      "color_body_bg": "#f7f7f7",
+      "color_body_text": "#000000",
+      "color_primary": "#28a77f",
+      "color_secondary": "#18664e",
+      "color_bg_light": "#eeeeee",
+      "color_bg_inverse": "#282828",
+      "color_text_inverse": "#e9e9e9",
+      "color_primary_inverse": "#28a77f",
+      "color_secondary_inverse": "#78a395",
+      "color_bg_accent_inverse": "#000000",
+      "default_background": "default--dark",
+      "color_footer_bg": "#000000",
+      "color_footer_text": "#fdfdfd",
+      "type_heading_font": "basic_commercial_n7",
+      "type_heading_size": 110,
+      "font_title_capitalize": false,
+      "type_accent_font": "montserrat_n5",
+      "type_accent_size": 100,
+      "type_base_font": "basic_commercial_n4",
+      "type_body_size": 110,
+      "button_radius": 0,
+      "parallax_enable": true,
+      "collection_text_alignment": "text-center",
+      "product_grid_style": "under",
+      "image_hover_enable": true,
+      "product_grid_image": "crop",
+      "swatches_enable": true,
+      "badge_sale_discount": true,
+      "badge_sale_type": "dollar",
+      "color_badge": "#ffffff",
+      "color_badge_text": "#000000",
+      "cart_style": "pop",
+      "cart_color_bg": "palette--dark bg--invert--accent",
+      "animations_enable": true,
+      "image_autoheight_enable": true,
+      "tag_sellout": false,
+      "tag_sale": false,
+      "sections": {
+        "announcement": {
+          "type": "announcement",
+          "blocks": {
+            "announce_text": {
+              "type": "text",
+              "disabled": true,
+              "settings": {}
+            },
+            "announce_shipping": {
+              "type": "message",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "announce_text",
+            "announce_shipping"
+          ],
+          "settings": {}
+        },
+        "header": {
+          "type": "header",
+          "blocks": {
+            "collection_block": {
+              "type": "collection",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "collection_block"
+          ],
+          "settings": {
+            "main_menu_linklist": "main-menu",
+            "transparent_text_color": "#ffffff"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "linklist": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "main-menu"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {}
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "linklist",
+            "text",
+            "newsletter"
+          ],
+          "settings": {}
+        },
+        "popups": {
+          "type": "popups",
+          "blocks": {
+            "cookies": {
+              "type": "cookie",
+              "disabled": true,
+              "settings": {
+                "show_cookies_popup": true,
+                "text_title": "Are Cookies OK?",
+                "text_body": "<p>We use cookies to improve your browsing experience<\/p>",
+                "text_accept": "Accept",
+                "text_learn": "Learn more",
+                "learn_url": "shopify:\/\/policies\/privacy-policy"
+              }
+            },
+            "newsletter_signup": {
+              "type": "newsletter",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "cookies",
+            "newsletter_signup"
+          ],
+          "settings": {}
+        }
+      }
+    }
+  }
+}
