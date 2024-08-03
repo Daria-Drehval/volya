@@ -1,0 +1,224 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-hero-custom",
+      "settings": {
+        "text_align": "align--middle-left",
+        "show_title": true,
+        "show_title_below": true,
+        "show_description": true,
+        "show_description_below": true,
+        "show_image": true,
+        "bg_position": "center-top",
+        "image_height": "use_screen_three_quarters",
+        "overlay_opacity": 45,
+        "overlay_color": "#000000",
+        "text_color": "text--neutral"
+      }
+    },
+    "subcollections": {
+      "type": "collection-sub",
+      "settings": {
+        "show_subcollection": true,
+        "text_color": "text--white",
+        "text_align": "align--middle-center",
+        "select_image": "collection",
+        "bg_position": "center-center",
+        "aspect_ratio": 0.6,
+        "overlay_opacity": 20,
+        "overlay_color": "#000000"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "collections": {
+          "type": "collections",
+          "disabled": true,
+          "settings": {
+            "title": "All collections"
+          }
+        },
+        "filters": {
+          "type": "filters",
+          "settings": {}
+        },
+        "d922a561-6089-4f51-9837-9fddf32cb3cc": {
+          "type": "nav_links",
+          "disabled": true,
+          "settings": {
+            "collection_linklist": "collections"
+          }
+        },
+        "5227fc57-069a-4f16-b2e4-ce2b1799e2bc": {
+          "type": "nav_links",
+          "disabled": true,
+          "settings": {
+            "collection_linklist": "clothing"
+          }
+        },
+        "545ec226-84dc-4221-b327-20d8b489cfd7": {
+          "type": "group",
+          "settings": {
+            "title": "Filter by size",
+            "group_tags": "Small, Medium, Large"
+          }
+        },
+        "bff89ef4-91da-4d98-a3a3-f85662ddf0f0": {
+          "type": "nav_links",
+          "disabled": true,
+          "settings": {
+            "collection_linklist": "main-menu-update"
+          }
+        },
+        "c5188d17-9972-4e36-b909-eae1750a6be7": {
+          "type": "nav_links",
+          "settings": {
+            "collection_linklist": "main-menu"
+          }
+        },
+        "1dab7845-4d28-44e5-ae58-1863484a36e5": {
+          "type": "nav_links",
+          "settings": {
+            "collection_linklist": "lingerie"
+          }
+        },
+        "44733cef-e9a5-4874-87fa-c49a31b413ce": {
+          "type": "shopify:\/\/apps\/wishlist\/blocks\/app-block\/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
+          "disabled": true,
+          "settings": {
+            "is_collection": true,
+            "is_text_only_col": false,
+            "iwish_add_txt": "Add To Wishlist",
+            "iwish_added_txt": "Added To Wishlist",
+            "outline_icon": "default_outline",
+            "filled_icon": "default_filled",
+            "iwish_add_icon_outline": "",
+            "iwish_added_icon_filled": "",
+            "iwish_theme_class": "",
+            "txt_font_size": 14,
+            "iwish_text_clr": "#000000",
+            "iwish_text_hover_clr": "#000000",
+            "variant_change_wrapper": "",
+            "variant_name_id_selector": "[name=id]",
+            "iwish_qvWrapper": "",
+            "iwish_qvBtn_click": "",
+            "iwish_custom_filters": ".filter__button, .popout-list__item a, .collection__active__filters a",
+            "filter_timeout": 3000
+          }
+        }
+      },
+      "block_order": [
+        "collections",
+        "filters",
+        "d922a561-6089-4f51-9837-9fddf32cb3cc",
+        "5227fc57-069a-4f16-b2e4-ce2b1799e2bc",
+        "545ec226-84dc-4221-b327-20d8b489cfd7",
+        "bff89ef4-91da-4d98-a3a3-f85662ddf0f0",
+        "c5188d17-9972-4e36-b909-eae1750a6be7",
+        "1dab7845-4d28-44e5-ae58-1863484a36e5",
+        "44733cef-e9a5-4874-87fa-c49a31b413ce"
+      ],
+      "settings": {
+        "product_limit": 36,
+        "grid_setting_large": 3,
+        "grid_setting_small": "2",
+        "enable_layout_toggle": true,
+        "collection_sorting": true,
+        "hide_sidebar": true
+      }
+    },
+    "1661267657932fbe14": {
+      "type": "section-tabs",
+      "disabled": true,
+      "blocks": {
+        "166126765779d095e2-0": {
+          "type": "text",
+          "settings": {
+            "title": "Returns",
+            "text": "<p>Free returns within 30 days, no questions asked.  We believe in our products and we stand behind them.  We will return any of our items within 30 days just mail them back with your purchase receipt.<\/p>"
+          }
+        },
+        "166126765779d095e2-1": {
+          "type": "text",
+          "settings": {
+            "title": "Security",
+            "text": "<p>We accept all major credit cards.  All of our transactions are handled on a secure server using bank-grade encryption.  Payments can be handled through trusted third parties like Shopify Pay, Apple Pay, and PayPal.<\/p>"
+          }
+        },
+        "166126765779d095e2-2": {
+          "type": "text",
+          "settings": {
+            "title": "Support",
+            "text": "<p>Let us know what you think of your items.  If you are not satisfied your purchase can be replaced at any time or returned after 30 days. All of our products come with a 30 day free return and one year manufacturers guarantee against defects.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166126765779d095e2-0",
+        "166126765779d095e2-1",
+        "166126765779d095e2-2"
+      ],
+      "settings": {
+        "height": "margin--small",
+        "width": "wrapper",
+        "color_bg": "palette--light bg--neutral"
+      }
+    },
+    "166126775363ead16a": {
+      "type": "section-recent-products",
+      "settings": {
+        "bg": "palette--dark bg--invert",
+        "product_recently_heading": "Recently viewed",
+        "grid": 3,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 3
+      }
+    },
+    "16753207953d768bb4": {
+      "type": "apps",
+      "blocks": {
+        "9d8d671a-f5c3-49e6-85ef-54dac0a0dbfc": {
+          "type": "shopify:\/\/apps\/wishlist\/blocks\/app-block\/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
+          "settings": {
+            "is_collection": true,
+            "is_text_only_col": false,
+            "iwish_add_txt": "Add To Wishlist",
+            "iwish_added_txt": "Added To Wishlist",
+            "outline_icon": "default_outline",
+            "filled_icon": "default_filled",
+            "iwish_add_icon_outline": "",
+            "iwish_added_icon_filled": "",
+            "iwish_theme_class": "",
+            "txt_font_size": 14,
+            "iwish_text_clr": "#000000",
+            "iwish_text_hover_clr": "#000000",
+            "variant_change_wrapper": "",
+            "variant_name_id_selector": "[name=id]",
+            "iwish_qvWrapper": "",
+            "iwish_qvBtn_click": "",
+            "iwish_custom_filters": ".sidebar__filter__group,.sidebar__navigation__list li,.range__dot range__dot--left,.range__dot range__dot--right,.popout-list li",
+            "filter_timeout": 2600
+          }
+        }
+      },
+      "block_order": [
+        "9d8d671a-f5c3-49e6-85ef-54dac0a0dbfc"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "height": "margin--medium",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "subcollections",
+    "main",
+    "1661267657932fbe14",
+    "166126775363ead16a",
+    "16753207953d768bb4"
+  ]
+}

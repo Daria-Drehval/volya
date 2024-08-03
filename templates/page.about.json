@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": true,
+        "show_content": false,
+        "text_size": 1,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "ba3a0ba7-d981-4bde-a2a2-79572df4c7f5": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/uN_U_U_anO1668_1.jpg",
+        "bg_position": "center-center",
+        "height": "use_pixels_650",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17946485719317__d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481-1676998372f4caf91a-0": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "<p>About<\/p>",
+            "enable_caps": true,
+            "enable_line": false,
+            "text_size": 3
+          }
+        },
+        "template--17946485719317__d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481-1676998372f4caf91a-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I AM VOLYA was born in London as an online boutique to bring all the iconic Ukrainian designers in one place and make them widely available for the people of the United Kingdom. We create an immersive shopping experience reflecting on bravery, empowerment and creativity of Ukrainian modern culture. We believe that Ukrainian fashion identity is strong, fierce and unique and we want the world to know about it.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17946485719317__d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481-1676998372f4caf91a-0",
+        "template--17946485719317__d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481-1676998372f4caf91a-2"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--dark bg--invert"
+      }
+    },
+    "c6784f27-760a-4287-8d36-7f19d6be61a6": {
+      "type": "section-double",
+      "blocks": {
+        "template--17946485719317__c6784f27-760a-4287-8d36-7f19d6be61a6-167692257739b11734-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Our mission",
+            "text": "<p>Our concept lies in embracing your sexuality, empowering your femininity and not being afraid to stand out, be bold and fight for your freedom!<\/p><p>We also host immersive pop-up events around London. Our last pop-up \"Carol of the Bells\" took place on the <strong>9-18th of December<\/strong> at <strong>7 Dray Walk, E1 6QL<\/strong> and was dedicated to customs and traditions of Ukrainian Christmas season.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "rgba(0,0,0,0)"
+          }
+        },
+        "template--17946485719317__c6784f27-760a-4287-8d36-7f19d6be61a6-167692257739b11734-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/uN_U_U_anO2341.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "template--17946485719317__c6784f27-760a-4287-8d36-7f19d6be61a6-167692257739b11734-0",
+        "template--17946485719317__c6784f27-760a-4287-8d36-7f19d6be61a6-167692257739b11734-1"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": true
+      }
+    },
+    "d798e92a-19ac-4783-b1b6-fd911ae85424": {
+      "type": "section-double",
+      "blocks": {
+        "template--17946485719317__d798e92a-19ac-4783-b1b6-fd911ae85424-167700182385437165-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03351_1_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "template--17946485719317__d798e92a-19ac-4783-b1b6-fd911ae85424-167700182385437165-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "ABOUT FOUNDER",
+            "text": "<p>Mariya Suant is a Mariupol-born fashion business specialist.Since the beginning of the full-scale invasion Mariya has been volunteering for numerous organisations including the Ukrainian embassy,a refugee centre and humanitarian help organisations as well as hosting Ukrainian refugees in Europe. <\/p><p>Today she believes that her main purpose is to support and develop the economy of Ukraine as well as to spread awareness of her country’s distinctive culture.<\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--17946485719317__d798e92a-19ac-4783-b1b6-fd911ae85424-167700182385437165-1",
+        "template--17946485719317__d798e92a-19ac-4783-b1b6-fd911ae85424-167700182385437165-0"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": true
+      }
+    },
+    "166159811651ac9f5b": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "4ecd529f-0d82-4c20-9970-a27cf2d37bd1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2022-09-02_19.54.34.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "0808f49d-c1d5-4597-9ca5-c7833177bd71": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "ABOUT FOUNDER",
+            "text": "<p>Mariya Suant is a Mariupol-born fashion business specialist.Since the beginning of the full-scale invasion Mariya has been volunteering for numerous organisations including the Ukrainian embassy,a refugee centre and humanitarian help organisations as well as hosting Ukrainian refugees in Europe. Today she believes that her main purpose is to support and develop the economy of Ukraine as well as to spread awareness of her country’s distinctive culture.<\/p>",
+            "text_size": 1,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "4ecd529f-0d82-4c20-9970-a27cf2d37bd1",
+        "0808f49d-c1d5-4597-9ca5-c7833177bd71"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1f48ca31-96ed-49d1-9059-5329fc3aa5bf": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17946485719317__1f48ca31-96ed-49d1-9059-5329fc3aa5bf-16770026487217fbfe-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay tuned and visit our <a href=\"https:\/\/www.instagram.com\/iamvolya.uk\/\" target=\"_blank\" title=\"i am volya instagram\">Instagram<\/a> page for more details.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17946485719317__1f48ca31-96ed-49d1-9059-5329fc3aa5bf-16770026487217fbfe-2"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ba3a0ba7-d981-4bde-a2a2-79572df4c7f5",
+    "d1731fa3-9e4a-4eff-b4a3-a5b5b02d1481",
+    "c6784f27-760a-4287-8d36-7f19d6be61a6",
+    "d798e92a-19ac-4783-b1b6-fd911ae85424",
+    "166159811651ac9f5b",
+    "1f48ca31-96ed-49d1-9059-5329fc3aa5bf"
+  ]
+}

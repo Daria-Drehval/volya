@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": false,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "0fafb965-439c-4fb7-a648-5ae0ad22f493": {
+      "type": "section-columns",
+      "blocks": {
+        "0e5e0357-fd0c-4d85-94a0-0789da55203d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/girls.png",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "<p><a href=\"https:\/\/iamvolya.com\/pages\/girls-in-the-city\" title=\"https:\/\/iamvolya.com\/pages\/girls-in-the-city\"><strong>Girls in the city<\/strong><\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17564194537749__0fafb965-439c-4fb7-a648-5ae0ad22f493-1673641476e42f363a-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/134D4FBA-0381-4B5C-9ACE-47230E0EFEDE_1.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "<p><a href=\"https:\/\/iamvolya.com\/pages\/carol-of-the-bells\" target=\"_blank\" title=\"https:\/\/iamvolya.com\/pages\/carol-of-the-bells\"><strong>“Carol of The Bells” pop-up<\/strong><\/a><\/p><p>9-18th of December, 2022   <\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/carol-of-the-bells",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17564194537749__0fafb965-439c-4fb7-a648-5ae0ad22f493-1673641476e42f363a-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3X3A5198.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "<p><a href=\"https:\/\/iamvolya.com\/pages\/pop-up-shop-in-shoreditch\" target=\"_blank\" title=\"https:\/\/iamvolya.com\/pages\/pop-up-shop-in-shoreditch\"><strong>Pop-up Shop in Shoreditch<br\/><\/strong><\/a><\/p><p>9-13, September, 2022<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/pop-up-shop-in-shoreditch",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "0e5e0357-fd0c-4d85-94a0-0789da55203d",
+        "template--17564194537749__0fafb965-439c-4fb7-a648-5ae0ad22f493-1673641476e42f363a-0",
+        "template--17564194537749__0fafb965-439c-4fb7-a648-5ae0ad22f493-1673641476e42f363a-1"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 0.7
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0fafb965-439c-4fb7-a648-5ae0ad22f493"
+  ]
+}

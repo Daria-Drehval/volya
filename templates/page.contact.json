@@ -1,0 +1,243 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "bg_position": "center-center",
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "Contact",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper--narrow",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "contact": {
+      "type": "section-contact",
+      "blocks": {
+        "name": {
+          "type": "text",
+          "settings": {
+            "title": "Full Name"
+          }
+        },
+        "email": {
+          "type": "email",
+          "settings": {
+            "title": "Email"
+          }
+        },
+        "message": {
+          "type": "body",
+          "settings": {
+            "title": "Message"
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "title": "Contact us",
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper--narrow",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "What is your delivery time?",
+            "content": "<p>Your standard delivery order will be shipped within 2 working days with Royal Mail 48 tracked, please allow 3-5 working days to receive your order.<\/p><p>Your express delivery order will be shipped on the say day as long as it was placed before 1 pm and delivered next day.<\/p><p>We do not ship orders over the weekend.<\/p><p>Your 3-hour express delivery order will be shipped and delivered within 3-hour frame.<\/p><p>The delivery is only possible in person. Please mention a contract person at the pick up (it can be you, your neighbour, your friend, a building concierge).<\/p><p>BANK HOLIDAYS: We cannot ship parcels on a Bank Holiday. Parcels will be shipped the next working day.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "Which countries do you ship to?",
+            "content": "<p>At the moment we only offer shipment across the UK, however we are planning to expand soon. Please drop an email to info@iamvolya.com if you are willing to purchase outside of the UK.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "Can you help me with sizing?",
+            "content": "<p>Please contact us at info@iamvolya.com and we will send you the measurements of the chosen item. We also offer try-on service at one of our addresses in London on request. Subject to availability. Please contact to arrange.<\/p>"
+          }
+        },
+        "faq-3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "87151cfa-8225-416f-bb7c-ea9c874a1fa8": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "aa2e9709-7ad6-40b1-bf3f-964eba2d6f6c": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "84439e4e-2d66-4f77-b34f-3e3eab9961f4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "77bff05c-cc77-4d36-ba26-fa2d398e3e57": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "e193edf8-c9e5-4dd8-92dc-24e00304c54e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "f861fabf-6536-46ba-85c9-fe13d938e6d6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "faq-3",
+        "87151cfa-8225-416f-bb7c-ea9c874a1fa8",
+        "aa2e9709-7ad6-40b1-bf3f-964eba2d6f6c",
+        "84439e4e-2d66-4f77-b34f-3e3eab9961f4",
+        "77bff05c-cc77-4d36-ba26-fa2d398e3e57",
+        "e193edf8-c9e5-4dd8-92dc-24e00304c54e",
+        "f861fabf-6536-46ba-85c9-fe13d938e6d6"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "text_size": 1,
+        "height": "margin--medium",
+        "width": "wrapper--narrow",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#000000",
+            "title": "Free returns",
+            "text": "<p>Return within 14 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#000000",
+            "title": "UK shipping",
+            "text": "<p>Shipping within the UK, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#000000",
+            "title": "Online support",
+            "text": "<p>If you have any enquiries please contact at info@iamvolya.com. We are eager to help!<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left"
+      }
+    },
+    "bbe135b0-768c-47b6-8867-6ab96da5c2ce": {
+      "type": "section-html",
+      "settings": {
+        "html": "<div style='padding-bottom: 20px;'><\/div>",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "contact",
+    "faq",
+    "icons",
+    "bbe135b0-768c-47b6-8867-6ab96da5c2ce"
+  ]
+}

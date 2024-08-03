@@ -1,0 +1,231 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": false,
+        "text_size": 1,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--black",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163": {
+      "type": "section-richtext",
+      "blocks": {
+        "e5808c7c-c225-4bba-bbb2-ad635378527f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>“Carol of The Bells” pop-up 9-18th of December, 2022 in Truman Brewery<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Just before Christmas, I AM VOLYA, a curated online boutique of Ukrainian brands, organised the second pop-up store in Shoreditch, London. Gathering all the iconic designers in one place, the event provided an exceptional Christmas shopping experience to Londoners and tourists while immersing them in the creativity and bravery of contemporary Ukrainian culture. <\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "e5808c7c-c225-4bba-bbb2-ad635378527f",
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "5c785b11-61dc-4d49-a1bf-3665fc065e6d": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/134D4FBA-0381-4B5C-9ACE-47230E0EFEDE_1.jpg",
+        "bg_position": "center-center",
+        "height": "use_image",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Carol of the Bells, a Christmas song, became the leitmotif of this episode. Notably, this is a Ukrainian folk melody called ‘Shchedryk’, a well-wishing song written in 1916 by Ukrainian composer Mykola Leontovych. Attained from the Ukrainian word ‘Shchedryi’, which stands for generous and lavish, is what people wish for each other during the festive season for the following year. The ‘Shchedryk’ story is about a swallow flying into a home to bring generosity.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155": {
+      "type": "section-columns",
+      "blocks": {
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7C6542BE-F029-4AA7-8A01-1B2E25F83888.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0",
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 1.5
+      }
+    },
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I AM VOLYA pop-up store guests were invited to shop selected Christmas gifts: clothing, lingerie, jewellery, accessories, ceramics, candles, and textiles from renowned Ukrainian talents such as KSENIASCHNAIDER, GUNIA PROJECT, TTSWTRS, ELENAREVA, and many others. Inveeties indulged more in the festive spirit by creating Christmas wreaths at the special florist corner. <\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "258e833f-2b4f-443f-bb8a-0130ef575d16": {
+      "type": "section-columns",
+      "blocks": {
+        "template--17564389409045__258e833f-2b4f-443f-bb8a-0130ef575d16-16736434756cb57b8c-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17564389409045__258e833f-2b4f-443f-bb8a-0130ef575d16-16736434756cb57b8c-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/017C0EC2-39B3-43C5-91AD-9B2AFC92AAFD.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--17564389409045__258e833f-2b4f-443f-bb8a-0130ef575d16-16736434756cb57b8c-0",
+        "template--17564389409045__258e833f-2b4f-443f-bb8a-0130ef575d16-16736434756cb57b8c-1"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 1.5
+      }
+    },
+    "bd56d979-e2a0-46f6-9902-6c868c06d92e": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17564389409045__bd56d979-e2a0-46f6-9902-6c868c06d92e-16736435414a7493ac-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Photos: Dmitry Novikov<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17564389409045__bd56d979-e2a0-46f6-9902-6c868c06d92e-16736435414a7493ac-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163",
+    "5c785b11-61dc-4d49-a1bf-3665fc065e6d",
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f",
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155",
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0",
+    "258e833f-2b4f-443f-bb8a-0130ef575d16",
+    "bd56d979-e2a0-46f6-9902-6c868c06d92e"
+  ]
+}

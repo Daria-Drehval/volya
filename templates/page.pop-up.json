@@ -1,0 +1,317 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": true,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1662483909c80f5b91": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "16624839096562d1ad-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_d39e6a61-370d-4991-b440-19277c3d1820.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "16624839096562d1ad-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "Read article",
+            "button_url": "http:\/\/hdfashion.tv\/londonskii-feschn-hab-ukra-nskih-brend-v-i-am-volya",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16624839096562d1ad-1",
+        "16624839096562d1ad-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "22c77739-fcdf-422a-b638-21f7e415a79e": {
+      "type": "section-html",
+      "disabled": true,
+      "settings": {
+        "html": "<div style='padding: 60px 0;'><\/div>",
+        "full_width": true
+      }
+    },
+    "c0e89359-fe69-4d0f-b968-ce4e53ad2731": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--14834517671984__c0e89359-fe69-4d0f-b968-ce4e53ad2731-1665656498eb7cc3d0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5ccd29c7-7374-4705-ab9c-15f944caee8d.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "template--14834517671984__c0e89359-fe69-4d0f-b968-ce4e53ad2731-1665656498eb7cc3d0-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "Read article",
+            "button_url": "https:\/\/shotam.info\/mariupolchanka-vidkryla-khab-ukrainskykh-brendiv-u-londoni-i-am-volya\/",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--14834517671984__c0e89359-fe69-4d0f-b968-ce4e53ad2731-1665656498eb7cc3d0-1",
+        "template--14834517671984__c0e89359-fe69-4d0f-b968-ce4e53ad2731-1665656498eb7cc3d0-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "13a0b3e1-e894-45c5-b830-5b4da6d425c7": {
+      "type": "section-html",
+      "disabled": true,
+      "settings": {
+        "html": "<div style='padding: 60px 0;'><\/div>",
+        "full_width": true
+      }
+    },
+    "0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--14834517671984__0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a-1665656498eb7cc3d0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_08386f3f-d8f1-4d8e-9515-2bb2bd219d97.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "template--14834517671984__0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a-1665656498eb7cc3d0-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "read article",
+            "button_url": "https:\/\/www.the-village.com.ua\/village\/service-shopping\/style-news\/330695-u-londoni-vidkrili-hab-ukrayinskih-brendiv",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--14834517671984__0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a-1665656498eb7cc3d0-1",
+        "template--14834517671984__0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a-1665656498eb7cc3d0-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "89cb2ed4-e9e4-4d81-bdcd-8facc6cdf279": {
+      "type": "section-html",
+      "disabled": true,
+      "settings": {
+        "html": "<div style='padding: 60px 0;'><\/div>",
+        "full_width": true
+      }
+    },
+    "73140eee-6bb6-43fd-9716-c4e189a2a77e": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--14834517671984__73140eee-6bb6-43fd-9716-c4e189a2a77e-1665656498eb7cc3d0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_c8c3a03c-1dee-4573-a8c3-52dc8898f247.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "template--14834517671984__73140eee-6bb6-43fd-9716-c4e189a2a77e-1665656498eb7cc3d0-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "read article",
+            "button_url": "https:\/\/bzh.life\/ua\/mesta-i-veshi\/i-am-volya-hab-ukrayinskih-brendiv-u-londoni\/",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--14834517671984__73140eee-6bb6-43fd-9716-c4e189a2a77e-1665656498eb7cc3d0-1",
+        "template--14834517671984__73140eee-6bb6-43fd-9716-c4e189a2a77e-1665656498eb7cc3d0-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "456dea44-62e7-4ed6-ad0c-9560d8a00e12": {
+      "type": "section-html",
+      "disabled": true,
+      "settings": {
+        "html": "<div style='padding: 60px 0;'><\/div>",
+        "full_width": true
+      }
+    },
+    "b9442d1d-b959-4edb-9abb-d33cdd420d26": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--14834517671984__b9442d1d-b959-4edb-9abb-d33cdd420d26-1665656498eb7cc3d0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_d9577612-1c11-4062-8939-cb622a3ea132.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "template--14834517671984__b9442d1d-b959-4edb-9abb-d33cdd420d26-1665656498eb7cc3d0-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><\/p>",
+            "text_size": 2,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "Read article",
+            "button_url": "https:\/\/marieclaire.ua\/fashion___uk\/yak-tse-bulo-vidkrittya-feshn-habu-ukrayinskih-brendiv-u-londoni",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--14834517671984__b9442d1d-b959-4edb-9abb-d33cdd420d26-1665656498eb7cc3d0-1",
+        "template--14834517671984__b9442d1d-b959-4edb-9abb-d33cdd420d26-1665656498eb7cc3d0-0"
+      ],
+      "settings": {
+        "height": "image-height",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1662483909c80f5b91",
+    "22c77739-fcdf-422a-b638-21f7e415a79e",
+    "c0e89359-fe69-4d0f-b968-ce4e53ad2731",
+    "13a0b3e1-e894-45c5-b830-5b4da6d425c7",
+    "0c1e88a3-64d4-4f9a-910a-ab69e3be4f9a",
+    "89cb2ed4-e9e4-4d81-bdcd-8facc6cdf279",
+    "73140eee-6bb6-43fd-9716-c4e189a2a77e",
+    "456dea44-62e7-4ed6-ad0c-9560d8a00e12",
+    "b9442d1d-b959-4edb-9abb-d33cdd420d26"
+  ]
+}

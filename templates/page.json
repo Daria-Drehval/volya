@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": false,
+        "text_size": 1,
+        "align_text": "text-left",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--black",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163": {
+      "type": "section-richtext",
+      "blocks": {
+        "e5808c7c-c225-4bba-bbb2-ad635378527f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pop-up Shop in Shoreditch 9-13, September, 2022<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I AM VOLYA kicked off with a launch event on the 9th of September at 7 Club Row, London.<\/p><p>The event space was located in the heart of London creative district - Shoreditch, on the corner of the hipster-honeyspot Redchurch street next door to the famous Shoreditch House, Browns East and local’s favourite Jolene.<\/p><p>For the first time in London there were presented 18 Ukrainian brands - from well-established names such as KSENIASCHNAIDER, TTSWTRS and Gunia Project to some truly niche and artisan Ukrainian manufacturers.<\/p><p><\/p><p>Our selection included unisex items, Ready-to-wear womenswear, knitwear, fashion jewellery, lingerie and homeware - from candles to ceramics and textile.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "e5808c7c-c225-4bba-bbb2-ad635378527f",
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155": {
+      "type": "section-columns",
+      "blocks": {
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/geddRgfveyhdId_favHSKQ.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Cp6BJWCZ_UaNp1KNvp9KPQ.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0",
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 1.5
+      }
+    },
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have also presented some iconic pieces of Ukrainian fashion, including Bobkova Suit worn by the first lady of Ukraine, Olena Zelenska; TTSWTRS bodysuit seen on Winnie Harlow and Khloe Kardashian; KSENIASCHAIDER jeans - spotted on Bella Hadid on the streets of New York.<\/p><p><\/p><p>Some of our brands have a truly unique story and mission.<\/p><p><\/p><p>For instance, Ochis is the first sustainable eyewear brand that makes frames from used coffee grounds. Yuval’ is a jewellery brand founded by entrepreneurs from Mariupol that took their inspiration from the now occupied city. Chereshnivska is a brand that utilises vintage parachute fabric in their designs.<\/p><p><\/p><p>Brands like Bobkova and ELENAREVA are examples of well-established fashion houses in Ukraine, that have a remarkable tailoring and quality and truly deserve to be recognised in the UK scene.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "5c785b11-61dc-4d49-a1bf-3665fc065e6d": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3X3A5198.jpg",
+        "bg_position": "center-center",
+        "height": "use_image",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The crowd was a mix of Ukrainian creatives and local fashionistas. During the five days of the pop-up we had visitors from all over the world including tourists from the US, Japan, Israel, purchasing items from our selection and travelling back home with Ukrainian products.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163",
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155",
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f",
+    "5c785b11-61dc-4d49-a1bf-3665fc065e6d",
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0"
+  ]
+}

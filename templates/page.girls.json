@@ -1,0 +1,642 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": false,
+        "text_size": 1,
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "text_color": "text--black",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163": {
+      "type": "section-richtext",
+      "blocks": {
+        "e5808c7c-c225-4bba-bbb2-ad635378527f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>GIRLS IN THE CITY<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DISCOVER THE STORIES OF THREE UKRAINIAN WOMEN WHO HAVE BUILT SUCCESSFUL CAREERS AND FULFILLING LIVES IN LONDON. <\/p><p>IN HONOUR OF INTERNATIONAL WOMEN'S DAY, I AM VOLYA HAS INTERVIEWED THESE INSPIRING WOMEN WHO SHARE THEIR EXPERIENCES OF LIVING AND WORKING IN LONDON. DURING THE INTERVIEW, THEY SHOWCASE UKRAINIAN FASHION AVAILABLE AT I AM VOLYA, AND THE ALL-UKRAINIAN CREW BEHIND THE SCENES, WITH SOME MEMBERS OF CRIMEAN TATAR ANCESTRY. <\/p><p>READ ON TO BE INSPIRED BY THESE INCREDIBLE WOMEN AND LEARN HOW THEY'VE MADE THEIR MARK IN LONDON.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "e5808c7c-c225-4bba-bbb2-ad635378527f",
+        "template--17479580254485__9f3078b2-79c2-4f7a-add7-e41a5e083163-1673641929cfc121ed-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155": {
+      "type": "section-columns",
+      "blocks": {
+        "e5ef0a3c-2c9e-445c-8459-78f88b2be584": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3X3A9735_1.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3X3A1276.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3X3A0248.jpg",
+            "bg_position": "center-center",
+            "title": "",
+            "title_absolute": true,
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "e5ef0a3c-2c9e-445c-8459-78f88b2be584",
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-1",
+        "template--17479580254485__20aa015e-4e5e-4dba-a62d-9fb6b0a51155-167364205407b7b650-0"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "aspect_ratio": 1.5
+      }
+    },
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f": {
+      "type": "section-richtext",
+      "blocks": {
+        "4adfb1fb-bda1-48a5-8407-a49c65315e0e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALISA<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>COULD YOU TELL US ABOUT YOUR CAREER PATH? <\/strong><\/p><p><em>I HAVE ALWAYS BEEN A CIVIL SERVANT. I STARTED AS A CONSULTANT AT THE PRESIDENT'S ADMINISTRATION AND NOW WORK AS A DIPLOMAT.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "287e4cbc-7f01-4db5-84b8-0c3bb7a6dd37": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT PERSONALITY TRAIT HAVE YOU ADOPTED GROWING UP IN UKRAINE THAT HELPS YOU THE MOST IN YOUR LIFE?<\/strong><\/p><p><em>I AM A PERSON WHO VALUES FREEDOM A LOT. IT GIVES ME THE SUPERPOWER OF BEING RESPONSIBLE FOR COMPLEX PROJECTS, PUSHING THEM ON MY OWN, AND ENJOYING IT.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "a18d2b70-5351-4e60-8e49-3dd06a11dc4e": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT ARE THE DIFFERENCES BETWEEN THE BRITISH AND UKRAINIANS AT WORK?<\/strong><\/p><p><em>I THINK THE MAIN DIFFERENCE IS IN TIME MANAGEMENT — THE BRITISH STRESS ABOUT COMPLETING TASKS IN A MONTH THAT UKRAINIANS COULD EASILY DO IN A WEEK. ADDITIONALLY, BRITISH PEOPLE ARE MUCH MORE RESPECTFUL IN THEIR COMMUNICATION.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "4adfb1fb-bda1-48a5-8407-a49c65315e0e",
+        "template--17479580254485__66a30a9a-97f2-438c-9bb6-19c09f2f143f-1673642136921270f9-2",
+        "287e4cbc-7f01-4db5-84b8-0c3bb7a6dd37",
+        "a18d2b70-5351-4e60-8e49-3dd06a11dc4e"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "adeba46d-2bd2-4986-a6be-918db6afee18": {
+      "type": "section-custom-content",
+      "blocks": {
+        "f1fe814d-12e0-4ae7-8f17-775fb6ded1db": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A0536.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "32a3d9d6-39f5-4e21-b7cb-10be267775d5": {
+          "type": "collection",
+          "settings": {
+            "collection": "alisa1",
+            "kicker": "SHOP ALISA’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "f1fe814d-12e0-4ae7-8f17-775fb6ded1db",
+        "32a3d9d6-39f5-4e21-b7cb-10be267775d5"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT ARE THREE WORDS TO DESCRIBE LIFE IN LONDON?<\/strong><\/p><p><em>LONDON FEELS JUST RIGHT.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "240e7032-3628-448f-9bf8-835027c47d88": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT LONDONER HABITS HAVE YOU ADOPTED SINCE MOVING HERE?<\/strong><\/p><p><em>I SAY \"SORRY\" AND \"THANK YOU\" AT LEAST 100 TIMES A DAY.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "ebee500b-4ae0-4422-b9a4-02ede289b2f4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>YOUR FAVOURITE PIECE OF CLOTHING AT THE MOMENT?<\/strong><\/p><p><em>I FEEL SOOO SEXY WEARING MY TTSWTRS BODYSUIT WITH ONE EXPOSED SHOULDER. WHEN I WEAR IT, I GET A LOT OF COMPLIMENTS.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "be4573c0-4afb-451b-9051-f27d8f7bac93": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT ADVICE WOULD YOU GIVE TO YOUR 20-YEAR-OLD SELF?<\/strong><\/p><p><em>YOU ARE ENOUGH.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "32eaf038-c513-4b9a-b527-0e192129f950": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT DO YOU MISS THE MOST FROM BACK HOME?<\/strong><\/p><p><em>MY LOVED ONES AND THE FOOD. I MISS UKRAINIAN FOOD SO MUCH<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--17479580254485__9008ce1b-3adf-4ad5-ba25-a52f8bd775d0-1673642136921270f9-2",
+        "240e7032-3628-448f-9bf8-835027c47d88",
+        "ebee500b-4ae0-4422-b9a4-02ede289b2f4",
+        "be4573c0-4afb-451b-9051-f27d8f7bac93",
+        "32eaf038-c513-4b9a-b527-0e192129f950"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "63189171-b09d-43d9-8972-c732addb2dee": {
+      "type": "section-custom-content",
+      "blocks": {
+        "94333dc3-9d4d-492f-8af4-c9dc82f8fd78": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A0467.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "c12ebaff-aa6d-4523-b172-dd1fda497e09": {
+          "type": "collection",
+          "settings": {
+            "collection": "alisa2",
+            "kicker": "SHOP ALISA’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "94333dc3-9d4d-492f-8af4-c9dc82f8fd78",
+        "c12ebaff-aa6d-4523-b172-dd1fda497e09"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "1bde45de-7161-4b5b-89c4-0b59491045ff": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--18115889004821__1bde45de-7161-4b5b-89c4-0b59491045ff-16779448607fbbb1dd-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>IRENE<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--18115889004821__1bde45de-7161-4b5b-89c4-0b59491045ff-16779448607fbbb1dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>COULD YOU TELL US ABOUT YOUR CAREER PATH? <\/strong><\/p><p><em>I MOVED TO LONDON IN 2016 TO STUDY SOCIOLOGY AND WAS DOING A LOT OF PHOTOGRAPHY AT THE TIME. OH, AND I WAS ABSOLUTELY AGAINST WORKING IN A CORPORATE ENVIRONMENT, LET ALONE FINANCE. WELL, AS LONDON DOES, IT LAUGHED AT MY PLANS, AND GAVE ME AN OPPORTUNITY TO TRY BOTH! CAN’T SAY IT WAS THE EASIEST TRANSITION, BUT I KNEW WHAT I WANTED TO GET FROM THIS JOB SO I WENT FOR IT. <\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "a2831fe9-89d7-484d-9739-d6d29f08592a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHERE DO YOU WORK NOW?<\/strong><\/p><p><em>SINCE GRADUATING IN 2019, I HAVE BEEN WORKING AT BLACKROCK WHERE I LOOK AFTER CLIENT RELATIONSHIPS IN THE UK'S DEFINED CONTRIBUTION PENSION MARKET. ONE DAY I PLAN TO BRING MY SKILLS AND KNOWLEDGE HOME TO BUILD SUSTAINABLE FINANCIAL FUTURES FOR UKRAINIANS. <\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "1a97bfda-99c4-4b14-936e-5789e285539d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT ARE THREE WORDS TO DESCRIBE LIFE IN LONDON?<\/strong><\/p><p><em>DIVERSITY, ENERGY, AND PUBS.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--18115889004821__1bde45de-7161-4b5b-89c4-0b59491045ff-16779448607fbbb1dd-1",
+        "template--18115889004821__1bde45de-7161-4b5b-89c4-0b59491045ff-16779448607fbbb1dd-2",
+        "a2831fe9-89d7-484d-9739-d6d29f08592a",
+        "1a97bfda-99c4-4b14-936e-5789e285539d"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "d4b2b549-be46-4bc4-8e43-92db90fb5209": {
+      "type": "section-custom-content",
+      "blocks": {
+        "951e7bfb-550c-44ca-b783-5a671173af7b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A0201.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "2035de5e-32f7-42d9-a91d-b65c94d75d86": {
+          "type": "collection",
+          "settings": {
+            "collection": "irene1",
+            "kicker": "SHOP IRENE’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "951e7bfb-550c-44ca-b783-5a671173af7b",
+        "2035de5e-32f7-42d9-a91d-b65c94d75d86"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "e04a16a0-17e0-4fbc-ad1b-ebf4b6db14ba": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--18115889004821__e04a16a0-17e0-4fbc-ad1b-ebf4b6db14ba-16779448607fbbb1dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>WHAT PLACE IN LONDON DO YOU MOST ASSOCIATE WITH YOURSELF?<\/strong><\/p><p><em>HACKNEY CITY FARM, A COMBINATION OF FLUFFY GOATS AND SHEEP AND THE LIVELINESS OF LONDON.<\/em><\/p><p><strong>WHAT ADVICE WOULD YOU GIVE TO YOUR 20-YEAR-OLD SELF?<\/strong><\/p><p><em>GIRL, RESPECT YOUR AUTHENTIC SELF AND DEFEND YOUR BOUNDARIES..<\/em><\/p><p><strong>YOUR FAVOURITE PIECE OF CLOTHING AT THE MOMENT?<\/strong><\/p><p><em>KSENIASCHNEIDER JEANS ARE THE BEST!<\/em><\/p><p><strong>WHAT DO YOU MISS THE MOST FROM BACK HOME?<\/strong><\/p><p><em>MY PARENTS PICKING ME UP AT THE AIRPORT WHEN I FLEW HOME FROM LONDON. IT'S A RITUAL FROM OUR PREVIOUS REALITY THAT I HOPE TO RECLAIM VERY SOON.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--18115889004821__e04a16a0-17e0-4fbc-ad1b-ebf4b6db14ba-16779448607fbbb1dd-2"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1c63752b-07e9-4763-b7d9-0083a684c761": {
+      "type": "section-custom-content",
+      "blocks": {
+        "87f373e0-3bd5-45ae-8d15-192f3ab2af29": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A9341_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "b4da2a13-1845-46a1-8c1f-0e03cfbe6eba": {
+          "type": "collection",
+          "settings": {
+            "collection": "irene2",
+            "kicker": "SHOP IRENE’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "87f373e0-3bd5-45ae-8d15-192f3ab2af29",
+        "b4da2a13-1845-46a1-8c1f-0e03cfbe6eba"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "51af6b05-c15e-4dfe-8334-aa8886ddd758": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--18115889004821__51af6b05-c15e-4dfe-8334-aa8886ddd758-16779448607fbbb1dd-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>TANIA<\/p>",
+            "text_size": 8
+          }
+        },
+        "template--18115889004821__51af6b05-c15e-4dfe-8334-aa8886ddd758-16779448607fbbb1dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>COULD YOU TELL US ABOUT YOUR CAREER PATH? <\/strong><\/p><p><em>I STARTED AT A SMALL ADVERTISING AGENCY IN KYIV AS A TARGETING ADVERTISING MANAGER, AND NOW I WORK FOR ONE OF THE GLOBAL 4 IN THE BRAND, MARKETING, AND COMMUNICATIONS DEPARTMENT.<\/em><\/p><p><strong>WHAT PERSONALITY TRAIT HAVE YOU ADOPTED GROWING UP IN UKRAINE THAT HELPS YOU THE MOST IN YOUR LIFE?<\/strong><\/p><p><em>INDEPENDENCE AND THE WILLINGNESS TO TAKE RESPONSIBILITY FOR MY LIFE.<\/em><\/p><p><strong>YOUR MORNING RITUAL IS…<\/strong><\/p><p><em>FACIAL GYMNASTICS, TEXTING BACK TO MY BF, WHO IS CURRENTLY IN UKRAINE, CHECKING THE NEWS, PROPER BREAKFAST (EGGS ON TOAST WITH AVO AND VEGS), AND COFFEE.<\/em><\/p><p><strong>WHAT ARE THREE WORDS TO DESCRIBE LIFE IN LONDON?<\/strong><\/p><p><em>DYNAMIC, INCLUSIVE, AND CREATIVE.<\/em><\/p><p><strong>YOUR FAVOURITE PIECE OF CLOTHING AT THE MOMENT?<\/strong><\/p><p><em>KATIA BESLIK UPCYCLING SHIRT IN BLUE.<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--18115889004821__51af6b05-c15e-4dfe-8334-aa8886ddd758-16779448607fbbb1dd-1",
+        "template--18115889004821__51af6b05-c15e-4dfe-8334-aa8886ddd758-16779448607fbbb1dd-2"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "71be5c4d-537c-4e15-821a-199589c036c5": {
+      "type": "section-custom-content",
+      "blocks": {
+        "9bbb0aa6-92f3-465c-9ec5-f537fd7cf48e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A1189_fc686b90-00dd-47d5-9acf-4417298b0f76.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "071fc36d-acdc-47cf-ac31-1cc5811b6eff": {
+          "type": "collection",
+          "settings": {
+            "collection": "tania1",
+            "kicker": "SHOP TANIA’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "9bbb0aa6-92f3-465c-9ec5-f537fd7cf48e",
+        "071fc36d-acdc-47cf-ac31-1cc5811b6eff"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "eb0412e9-9149-400b-9fa0-783ee2b53031": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--18115889004821__eb0412e9-9149-400b-9fa0-783ee2b53031-16779448607fbbb1dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>YOUR SECRET PLACE FOR A MIDDAY BREAK IN LONDON?<\/strong><\/p><p><em>WHEN WORKING FROM HOME, BY THE THAMES, ON A BENCH TWO MINUTES WALK FROM MY FLAT. WHEN WORKING FROM THE OFFICE, A BACKYARD BY THE OFFICE GIVES A VIEW OF TOWER BRIDGE.<\/em><\/p><p><strong>WHAT PLACE IN LONDON DO YOU MOST ASSOCIATE WITH YOURSELF?<\/strong><\/p><p><em>TATE MODERN.<\/em><\/p><p><strong>WHAT ADVICE WOULD YOU GIVE TO YOUR 20-YEAR-OLD SELF?<\/strong><\/p><p><em>NETWORK MORE AND TAKE PUBLIC SPEAKING LESSONS.<\/em><\/p><p><strong>WHAT DO YOU MISS THE MOST FROM BACK HOME?<\/strong><\/p><p><em>MY PEOPLE AND PUPPY, OUR GREAT SERVICE, AND EARLY MORNINGS AT MY APARTMENT WITH A VIEW OVER KYIV<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--18115889004821__eb0412e9-9149-400b-9fa0-783ee2b53031-16779448607fbbb1dd-2"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "24e9e5a4-beb6-4d37-95fc-01897be2dc98": {
+      "type": "section-custom-content",
+      "blocks": {
+        "b8c5dde8-8d00-435e-8e54-450e8b8e6fc0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3X3A0786.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "d72089fe-7612-4ede-b98a-f5426e543195": {
+          "type": "collection",
+          "settings": {
+            "collection": "tania2",
+            "kicker": "SHOP TANIA’S LOOK",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#ffffff",
+            "bg_accent": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "b8c5dde8-8d00-435e-8e54-450e8b8e6fc0",
+        "d72089fe-7612-4ede-b98a-f5426e543195"
+      ],
+      "settings": {
+        "height": "use_pixels_800",
+        "padding": false,
+        "borders": false,
+        "wrapper": false
+      }
+    },
+    "582e81b3-5057-4852-9f22-d9f5e35590a8": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--18115889004821__582e81b3-5057-4852-9f22-d9f5e35590a8-16779448607fbbb1dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>TEAM<\/strong><\/p><p>PHOTOGRAPHY <em>VENERA VAITOVA<\/em><\/p><p>STYLING <em>ADILE SEIT-ARIF<\/em><\/p><p>SET MANAGEMENT <em>ANASTASIIA MEDYNSKA<\/em><\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--18115889004821__582e81b3-5057-4852-9f22-d9f5e35590a8-16779448607fbbb1dd-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "height": "margin--zero",
+        "width": "wrapper--full",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9f3078b2-79c2-4f7a-add7-e41a5e083163",
+    "20aa015e-4e5e-4dba-a62d-9fb6b0a51155",
+    "66a30a9a-97f2-438c-9bb6-19c09f2f143f",
+    "adeba46d-2bd2-4986-a6be-918db6afee18",
+    "9008ce1b-3adf-4ad5-ba25-a52f8bd775d0",
+    "63189171-b09d-43d9-8972-c732addb2dee",
+    "1bde45de-7161-4b5b-89c4-0b59491045ff",
+    "d4b2b549-be46-4bc4-8e43-92db90fb5209",
+    "e04a16a0-17e0-4fbc-ad1b-ebf4b6db14ba",
+    "1c63752b-07e9-4763-b7d9-0083a684c761",
+    "51af6b05-c15e-4dfe-8334-aa8886ddd758",
+    "71be5c4d-537c-4e15-821a-199589c036c5",
+    "eb0412e9-9149-400b-9fa0-783ee2b53031",
+    "24e9e5a4-beb6-4d37-95fc-01897be2dc98",
+    "582e81b3-5057-4852-9f22-d9f5e35590a8"
+  ]
+}

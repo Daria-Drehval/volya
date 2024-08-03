@@ -1,0 +1,160 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "product_show_vendor": true,
+            "show_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "variant_form": "button",
+            "show_quantity": true,
+            "enable_payment_button": true,
+            "subscriptions_enable_selectors": true,
+            "show_remaining": false,
+            "show_remaining_style": "low",
+            "countdown": 10,
+            "info_page": "size-chart"
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {}
+        },
+        "3f5b9818-48f6-4062-843e-e3b3f6cfef68": {
+          "type": "shopify:\/\/apps\/wishlist\/blocks\/app-block\/7f9269b0-1b45-4d0c-8479-faf04f05d8ac",
+          "settings": {
+            "is_collection": false,
+            "is_text_only_col": false,
+            "iwish_add_txt": "Add To Wishlist",
+            "iwish_added_txt": "Added To Wishlist",
+            "outline_icon": "default_outline",
+            "filled_icon": "default_filled",
+            "iwish_add_icon_outline": "",
+            "iwish_added_icon_filled": "",
+            "iwish_theme_class": "",
+            "txt_font_size": 14,
+            "iwish_text_clr": "#000000",
+            "iwish_text_hover_clr": "#000000",
+            "variant_change_wrapper": "",
+            "variant_name_id_selector": "[name=id]",
+            "iwish_qvWrapper": "",
+            "iwish_qvBtn_click": "",
+            "iwish_custom_filters": "",
+            "filter_timeout": 1500
+          }
+        },
+        "sharing": {
+          "type": "sharing",
+          "disabled": true,
+          "settings": {}
+        },
+        "4dfd9648-17b5-4969-913e-d3247a2dd1da": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "read_more": true,
+            "enable_description": true,
+            "icon_description": "",
+            "style": "none",
+            "title_1": "Information",
+            "icon_name_1": "",
+            "raw_content_1": "<p>We've made the gifting easy for you! Buy a perfect gift in a few simple steps:<\/p><ul><li>Choose a value of your e-card<\/li><li>Add to basket<\/li><li>text<\/li><li>Pay at the checkout<\/li><li>Receive the gift e-card to your email<\/li><li>And just share it with your recipient<\/li><\/ul><p>Best gift ever!<\/p><p>with love,<\/p><p>I AM VOLYA xx<\/p>",
+            "title_2": "Details",
+            "icon_name_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "title_3": "",
+            "icon_name_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "35137104-94db-4196-9a00-5c47722e0848": {
+          "type": "text",
+          "settings": {
+            "title": "<p><\/p><p>We've made the gifting easy for you! Buy a perfect gift in a few simple steps:<\/p><p>• Choose a value of your e-card<\/p><p>• Add to basket<\/p><p>• Pay at the checkout<\/p><p>• Receive the gift e-card to your email<\/p><p>• Share it with your recipient<br\/> <\/p><p>Best gift ever!<\/p><p>with love,<\/p><p>I AM VOLYA xx<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "form",
+        "pickup",
+        "3f5b9818-48f6-4062-843e-e3b3f6cfef68",
+        "sharing",
+        "4dfd9648-17b5-4969-913e-d3247a2dd1da",
+        "35137104-94db-4196-9a00-5c47722e0848"
+      ],
+      "settings": {
+        "image_width": "narrow",
+        "align": "left",
+        "product_breadcrumbs": true,
+        "enable_video_looping": true,
+        "zoom_enable": true,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "disabled": true,
+      "settings": {
+        "product_reviews_enable": false,
+        "bg": "palette--light bg--accent"
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "heading": "CHECK THIS OUT",
+        "bg": "palette--dark bg--invert",
+        "grid": 3,
+        "related_products_enable": true,
+        "limit": 6,
+        "product_recommendations_heading": "Related products",
+        "show_recently_viewed": false,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 4,
+        "product_recently_heading": "Recently viewed"
+      }
+    },
+    "166126808658f36540": {
+      "type": "section-recent-products",
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "product_recently_heading": "Recently viewed",
+        "grid": 3,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 1
+      }
+    },
+    "1662136894bd253ef0": {
+      "type": "apps",
+      "settings": {
+        "width": "wrapper",
+        "height": "margin--medium",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "reviews",
+    "related",
+    "166126808658f36540",
+    "1662136894bd253ef0"
+  ]
+}
